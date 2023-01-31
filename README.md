@@ -1,6 +1,6 @@
 # RouRouThreadPool
 
-## __Why Called RouRouThreadPool__  
+## __Name Origin__  
 
 Actually RouRou is my daughter's nickname and she is my adorable angel.  
 
@@ -19,5 +19,13 @@ Todo.
 
 Todo.
 
+## __Performance__
 
+Todo. 
+
+## __Design Ideas__
+
+Todo. 
+
+## __Acknowledge__ 
 
